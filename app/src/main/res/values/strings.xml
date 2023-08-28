@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Arithmetic Operations Game</string>
+    <string name="new_game_button">New Game</string>
+    <string name="about_button">About</string>
+    <string name="left_math_expression">LEFT</string>
+    <string name="right_math_expression">RIGHT</string>
+    <string name="back_button">Back to Main Menu</string>
+    <string name="greater_than_button">Greater</string>
+    <string name="equals_button">==</string>
+    <string name="less_than_button">Less</string>
+    <string name="how_to_play">Press the respective buttons depending on the answer of each expression</string>
+    <string name="result_text">Correct!</string>
+    <string name="popup_window">I confirm that I understand what plagiarism is and have read and understood the section on Assessment Offences in the Essential Information for Students. The work that I have submitted is entirely my own. Any work from other authors is duly referenced and acknowledged.</string>
+    <string name="popup_window_header"><b>Abdulrahman Al-Haddad w1758177</b></string>
+</resources>
